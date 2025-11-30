@@ -1,0 +1,5 @@
+.gallery{
+    display:grid;
+    frid-template-columns: repear(7.1fr);
+    gap: 16px;
+}
